@@ -1,0 +1,9 @@
+site_name: sample-react-app
+site_description: "Storefront for the team's \"main\" shop: catalogue, basket & checkout"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
+  - d2

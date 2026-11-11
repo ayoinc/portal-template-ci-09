@@ -1,0 +1,5 @@
+{
+  "name": "sample-react-app",
+  "description": "Storefront for the team's \"main\" shop: catalogue, basket & checkout",
+  "apiBaseUrl": "/api"
+}
